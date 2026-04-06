@@ -1,0 +1,9 @@
+# Repository-specific ignores
+.gemini/
+brain/
+apply_dark_mode.ps1
+
+# Common OS files
+.DS_Store
+Thumbs.db
+desktop.ini
