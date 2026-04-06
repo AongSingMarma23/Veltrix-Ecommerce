@@ -8,7 +8,6 @@ Veltrix is a sleek, premium, and fully responsive e-commerce website designed to
 
 - **Responsive Design:** Optimized for mobile, tablet, and desktop viewports.
 - **Dynamic Product Pages:** View detailed information for every product with interactive image galleries.
-- **Functional Shopping Cart:** Add items, manage quantities, and see real-time subtotal/total updates without a backend.
 - **Premium Aesthetics:** Modern typography, vibrant color palettes, and subtle glassmorphism effects.
 - **Animated UI:** Smooth hover transitions and micro-animations for enhanced engagement.
 
