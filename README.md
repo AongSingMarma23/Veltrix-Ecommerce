@@ -1,55 +1,55 @@
-# Veltrix - Modern E-commerce Platform
+# Veltrix - Premium E-commerce Experience
 
-Veltrix is a sleek, premium, and fully responsive e-commerce website designed to provide a seamless shopping experience. Built with a focus on rich aesthetics and smooth user interactions, it features a dynamic product catalog, a functional shopping cart, and a modern design system.
+Veltrix is a high-performance, modern e-commerce storefront built with absolute precision using **Vanilla HTML5, CSS3, and JavaScript**. Designed for speed, aesthetics, and a seamless user journey, Veltrix provides a full-featured online shopping experience without the overhead of heavy frameworks.
 
 ![Veltrix Banner](https://raw.githubusercontent.com/AongSingMarma23/Veltrix-Ecommerce/main/img/banner/b1.jpg)
 
-## 🚀 Features
+## 🌟 Key Features
 
-- **Responsive Design:** Optimized for mobile, tablet, and desktop viewports.
-- **Dynamic Product Pages:** View detailed information for every product with interactive image galleries.
-- **Premium Aesthetics:** Modern typography, vibrant color palettes, and subtle glassmorphism effects.
-- **Animated UI:** Smooth hover transitions and micro-animations for enhanced engagement.
+- **Full Storefront Lifecycle:** Complete navigation through Home, Shop, Product Details, Blog, About, Contact, and Cart pages.
+- **Dynamic Product Intelligence:** Powered by a customized JavaScript engine that carries product state (images, metadata, pricing) seamlessly across pages using `sessionStorage`.
+- **Interactive Image Galleries:** Advanced click-to-swap hero images with localized gallery generation based on product categories.
+- **Mobile-First Responsive Design:** A custom-engineered navigation drawer and fluid layouts ensuring a premium experience on every device.
+- **Modern CSS Architecture:** Scalable styling utilizing a robust design system, CSS Flexbox, and advanced transitions.
+- **Performance Optimized:** Zero external dependencies and optimized asset paths for lightning-fast load times.
 
-## 🛠️ Technology Stack
+## 🚀 Built With
 
-- **Core:** HTML5, CSS3, Vanilla JavaScript
-- **Styling:** Vanilla CSS (no frameworks for maximum flexibility)
-- **Icons:** Font Awesome
-- **Fonts:** Google Fonts (Inter, Spartan)
+- **HTML5:** Semantic architecture for better SEO and accessibility.
+- **CSS3:** Custom design system with advanced animations and responsive media queries.
+- **Vanilla JavaScript:** Engineered logic for dynamic page transitions and state management.
+- **Google Fonts:** Utilizing 'Spartan' for a modern, high-end editorial feel.
+- **Font Awesome:** Integrated for a crisp, professional iconography set.
+
+## 📂 Project Architecture
+
+```text
+Veltrix/
+├── index.html          # Core Entry - Featured & New Arrivals
+├── shop.html           # Full Catalog - Grid Architecture
+├── sproduct.html       # Dynamic Product Detail Engine
+├── cart.html           # Procurement Preview & Management
+├── blog.html           # Content Marketing & Community
+├── about.html          # Brand Story & Heritage
+├── contact.html        # Multi-Channel Support & Locations
+├── style.css           # Global Design System & Variables
+├── script.js           # Core Application Logic & State
+└── img/                # High-Fidelity Visual Assets
+```
 
 ## 🛠️ Getting Started
 
-To run this project locally, simply follow these steps:
-
-1. **Clone the repository:**
+1. **Clone the Project**
    ```bash
    git clone https://github.com/AongSingMarma23/Veltrix-Ecommerce.git
    ```
-2. **Navigate to the project directory:**
-   ```bash
-   cd Veltrix-Ecommerce
-   ```
-3. **Open `index.html` in your browser:**
-   You can either double-click the file or use a local development server like "Live Server" for the best experience.
+2. **Launch Locally**
+   Simply open `index.html` in any modern browser. For development, we recommend using a local server extension (like Live Server) for hot-reloading.
 
-## 📂 Project Structure
-
-```text
-Veltrix-Ecommerce/
-├── index.html       # Home Page
-├── shop.html        # Product Catalog
-├── sproduct.html    # Single Product View
-├── cart.html        # Shopping Cart
-├── style.css        # Core Design System & Styling
-├── script.js        # Dynamic Interaction & Cart Logic
-└── img/             # High-quality Product & UI Assets
-```
-
-## 📬 Contact
+## 📬 Connectivity
 
 **Aong Sing Marma**  
-[GitHub Profile](https://github.com/AongSingMarma23)
+- [GitHub Profile](https://github.com/AongSingMarma23)
 
 ---
-*Created with ❤️ for premium e-commerce experiences.*
+*Veltrix — Redefining Digital Commerce Aesthetics.*
